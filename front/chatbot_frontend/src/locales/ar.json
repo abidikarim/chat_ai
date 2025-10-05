@@ -1,0 +1,19 @@
+{
+  "welcome": "مرحبًا بك في AI Chat",
+  "login": "تسجيل الدخول",
+  "signup": "إنشاء حساب",
+  "logout": "تسجيل الخروج",
+  "chat_placeholder": "اكتب سؤالك هنا...",
+  "send": "إرسال",
+  "select_model": "اختر النموذج",
+  "language": "اللغة",
+  "profile": "الملف الشخصي",
+  "history": "سجل الدردشة",
+  "dont_have_account": "ليس لديك حساب؟",
+  "already_account": "لديك حساب بالفعل؟",
+  "name": "الاسم",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "submit": "إرسال",
+  "home": "الرئيسية"
+}

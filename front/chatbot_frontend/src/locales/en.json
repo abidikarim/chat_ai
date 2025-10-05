@@ -1,0 +1,19 @@
+{
+  "welcome": "Welcome to AI Chat",
+  "login": "Login",
+  "signup": "Sign Up",
+  "logout": "Logout",
+  "chat_placeholder": "Type your question...",
+  "send": "Send",
+  "select_model": "Select AI Model",
+  "language": "Language",
+  "profile": "Profile",
+  "history": "History",
+  "dont_have_account": "Don't have an account?",
+  "already_account": "Already have an account?",
+  "name": "Name",
+  "email": "Email",
+  "password": "Password",
+  "submit": "Submit",
+  "home": "Home"
+}
